@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: Instruction.h
-Description: Instruction font for DisplayCore
+Description: Instruction
