@@ -1,7 +1,7 @@
 #ifndef _INSTRUCTION_H
 #define _INSTRUCTION_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t Instruction10[];
